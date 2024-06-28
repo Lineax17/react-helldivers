@@ -1,7 +1,7 @@
-import ListGroup from './components/ListGroup'
+import StratagemImage from './components/StratagemImage'
 
 function App() {
-  return <div><ListGroup></ListGroup></div>
+  return <div><StratagemImage imagePath="../../media/stratagems/hangar/Eagle Airstrike.svg"></StratagemImage></div>
 }
 
 export default App
