@@ -1,10 +1,11 @@
 [
   {
-    "ship_compartment": "Bridge",
+    "ship_compartment": "Patriotic_Administration_Center",
     "stratagems": [
 
     ]
   },
+
   {
     "number": 0,
     "name": "HMG_Emplacement",
