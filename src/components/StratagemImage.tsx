@@ -7,7 +7,7 @@ interface StratagemImageProps {
 }
 
 function StratagemImage(stratagemImageProps:StratagemImageProps) {
-  return <div className="stratagem_image" onClick={() =>"Onclick Image Test"}><img src={stratagemImageProps.imagePath} alt="Stratagem Image" /></div>;
+  return <div className="stratagem_image" onClick={() => console.log("Onclick Image Test")} ><img src={stratagemImageProps.imagePath} alt="Stratagem Image" /></div>;
 }
 /*
 const StratagemImage: React.FC<StratagemImageProps> = ({ imagePath }) => {

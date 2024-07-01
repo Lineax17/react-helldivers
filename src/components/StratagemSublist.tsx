@@ -17,8 +17,8 @@ const Components = {
 };
 
 
-const dynamicComponent = (imagePath:StratagemImage) => {
-    return React.createElement(StratagemImage, {imagePath:"../../media/stratagems/bridge/HMG_Emplacement.svg"});
+const dynamicComponent = (imagePath:string) => {
+    return React.createElement(StratagemImage, {imagePath});
 
 };
 /*
@@ -30,7 +30,7 @@ function StratagemSublist(stratagemSublistProps:StratagemSublistProps) {
     return <div>
         <h2>{stratagemSublistProps.sectionName}</h2>
         <StratagemImage imagePath="../../media/stratagems/bridge/HMG_Emplacement.svg"></StratagemImage>
-        {dynamicComponent({filePath:"../../media/stratagems/bridge/HMG_Emplacement.svg"})}
+        {dynamicComponent('../../media/stratagems/bridge/HMG_Emplacement.svg')}
     </div>
 }
 
