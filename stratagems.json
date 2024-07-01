@@ -1,5 +1,11 @@
 [
   {
+    "ship_compartment": "Bridge",
+    "stratagems": [
+
+    ]
+  },
+  {
     "number": 0,
     "name": "HMG_Emplacement",
     "image_path": "../../media/stratagems/bridge/HMG_Emplacement.svg",
