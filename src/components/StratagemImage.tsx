@@ -5,7 +5,7 @@ interface StratagemImageProps {
 }
 
 const StratagemImage: React.FC<StratagemImageProps> = ({ imagePath }) => {
-  return <div id="stratagem_image"><img src={imagePath} alt="Stratagem Image" /></div>;
+  return <div className="stratagem_image" onClick={() => console.log("Clicked. Placeholder for function")}><img src={imagePath} alt="Stratagem Image" /></div>;
 };
 
 export default StratagemImage;
