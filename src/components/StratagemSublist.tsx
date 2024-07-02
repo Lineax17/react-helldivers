@@ -20,7 +20,7 @@ const createImages = (sectionName : string) => {
     const stratagems = StratagemJson.subsections.find((element) => element.ship_compartment === sectionName).stratagems
 
     const sublist = stratagems.map(item =>
-        <StratagemImage imagePath={item.image_path}></StratagemImage>)
+        <StratagemImage imagePath={item.image_path} stratagemName={item.name} sectionName={sectionName}></StratagemImage>)
     return sublist
 };
 
