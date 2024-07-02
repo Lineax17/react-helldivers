@@ -20,6 +20,7 @@ function StratagemList(stratagemListProps:StratagemListProps) {
     const subsectionList = stratagemListProps.subsectionList
     return <div>
         <h1>{'Stratagems'}</h1>
+
         {createSubsections(subsectionList)}
     </div>
 }

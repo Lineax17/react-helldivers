@@ -31,11 +31,7 @@ const Components = {
 //Function to create one Stratagem Image
 const dynamicComponent = (imagePath:string) => {
     return React.createElement(StratagemImage, {imagePath});
-
 };
-
- */
-/*
 const createImages = (stratagemList: typeof StratagemJson.subsections.stratagems) => {
     return stratagemList.map(item =><StratagemImage imagePath="../../media/stratagems/bridge/HMG_Emplacement.svg"></StratagemImage>)
 };
@@ -45,7 +41,6 @@ const createImages = (stratagemList: typeof StratagemJson.subsections.stratagems
 function StratagemSublist(stratagemSublistProps:StratagemSublistProps) {
     return <div>
         <h2>{stratagemSublistProps.sectionName}</h2>
-        
         {createImages(stratagemSublistProps.sectionName)}
     </div>
 }
