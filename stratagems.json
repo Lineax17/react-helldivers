@@ -1,771 +1,778 @@
-[
-  {
-    "ship_compartment": "General_Stratagems",
-    "stratagems": [
+
+{
+    "subsections": [
       {
-        "name": "Dark_Fluid_Vessel",
-        "image_path": "../../media/stratagems/general/Dark_Fluid_Vessel.svg",
-        "keys": [
-          "w",
-          "a",
-          "d",
-          "s",
-          "w",
-          "w"
+        "ship_compartment": "General_Stratagems",
+        "stratagems": [
+          {
+            "name": "Dark_Fluid_Vessel",
+            "image_path": "../../media/stratagems/general/Dark_Fluid_Vessel.svg",
+            "keys": [
+              "w",
+              "a",
+              "d",
+              "s",
+              "w",
+              "w"
+            ]
+          },
+          {
+            "name": "Hellbomb",
+            "image_path": "../../media/stratagems/general/Hellbomb.svg",
+            "keys": [
+              "s",
+              "w",
+              "a",
+              "s",
+              "w",
+              "d",
+              "s",
+              "w"
+            ]
+          },
+          {
+            "name": "Orbital_Illumination_Flare",
+            "image_path": "../../media/stratagems/general/Orbital_Illumination_Flare.svg",
+            "keys": [
+              "d",
+              "d",
+              "a",
+              "a"
+            ]
+          },
+          {
+            "name": "Prospecting_Drill",
+            "image_path": "../../media/stratagems/general/Prospecting_Drill.svg",
+            "keys": [
+              "s",
+              "s",
+              "a",
+              "d",
+              "s",
+              "s"
+            ]
+          },
+          {
+            "name": "Reinforce",
+            "image_path": "../../media/stratagems/general/Reinforce.svg",
+            "keys": [
+              "w",
+              "s",
+              "d",
+              "a",
+              "w"
+            ]
+          },
+          {
+            "name": "Resupply",
+            "image_path": "../../media/stratagems/general/Resupply.svg",
+            "keys": [
+              "s",
+              "s",
+              "w",
+              "d"
+            ]
+          },
+          {
+            "name": "SEAF_Artillery",
+            "image_path": "../../media/stratagems/general/SEAF_Artillery.svg",
+            "keys": [
+              "d",
+              "w",
+              "w",
+              "s"
+            ]
+          },
+          {
+            "name": "Seismic_Probe",
+            "image_path": "../../media/stratagems/general/Seismic_Probe.svg",
+            "keys": [
+              "w",
+              "w",
+              "a",
+              "d",
+              "s",
+              "s"
+            ]
+          },
+          {
+            "name": "SOS_Beacon",
+            "image_path": "../../media/stratagems/general/SOS_Beacon.svg",
+            "keys": [
+              "w",
+              "s",
+              "d",
+              "w"
+            ]
+          },
+          {
+            "name": "Super_Earth_Flag",
+            "image_path": "../../media/stratagems/general/Super_Earth_Flag.svg",
+            "keys": [
+              "s",
+              "w",
+              "s",
+              "w"
+            ]
+          },
+          {
+            "name": "Tectonic_Drill",
+            "image_path": "../../media/stratagems/general/Tectonic_Drill.svg",
+            "keys": [
+              "w",
+              "s",
+              "w",
+              "s",
+              "w",
+              "s"
+            ]
+          },
+          {
+            "name": "Upload_Data",
+            "image_path": "../../media/stratagems/general/Upload_Data.svg",
+            "keys": [
+              "a",
+              "d",
+              "w",
+              "w",
+              "w"
+            ]
+          },
+          {
+            "name": "Hive_Breaker_Drill",
+            "image_path": "",
+            "keys": [
+              "a",
+              "w",
+              "s",
+              "d",
+              "s",
+              "s"
+            ]
+          }
         ]
       },
       {
-        "name": "Hellbomb",
-        "image_path": "../../media/stratagems/general/Hellbomb.svg",
-        "keys": [
-          "s",
-          "w",
-          "a",
-          "s",
-          "w",
-          "d",
-          "s",
-          "w"
+        "ship_compartment": "Patriotic_Administration_Center",
+        "stratagems": [
+          {
+            "name": "Machine_Gun",
+            "image_path": "../../media/stratagems/patriotic_administration_center/Machine_Gun.svg",
+            "keys": [
+              "s",
+              "a",
+              "s",
+              "w",
+              "d"
+            ]
+          },
+          {
+            "name": "Anti-Materiel_Rifle",
+            "image_path": "../../media/stratagems/patriotic_administration_center/Anti-Materiel_Rifle.svg",
+            "keys": [
+              "s",
+              "a",
+              "d",
+              "w",
+              "s"
+            ]
+          },
+          {
+            "name": "Stalwart",
+            "image_path": "../../media/stratagems/patriotic_administration_center/Stalwart.svg",
+            "keys": [
+              "s",
+              "a",
+              "s",
+              "w",
+              "w",
+              "a"
+            ]
+          },
+          {
+            "name": "Expendable_Anti-Tank",
+            "image_path": "../../media/stratagems/patriotic_administration_center/Expendable_Anti-Tank.svg",
+            "keys": [
+              "s",
+              "s",
+              "a",
+              "w",
+              "d"
+            ]
+          },
+          {
+            "name": "Recoilless_Rifle",
+            "image_path": "../../media/stratagems/patriotic_administration_center/Recoilless_Rifle.svg",
+            "keys": [
+              "s",
+              "a",
+              "d",
+              "d",
+              "a"
+            ]
+          },
+          {
+            "name": "Flamethrower",
+            "image_path": "../../media/stratagems/patriotic_administration_center/Flamethrower.svg",
+            "keys": [
+              "s",
+              "a",
+              "w",
+              "s",
+              "w"
+            ]
+          },
+          {
+            "name": "Autocannon",
+            "image_path": "../../media/stratagems/patriotic_administration_center/Autocannon.svg",
+            "keys": [
+              "s",
+              "a",
+              "s",
+              "w",
+              "w",
+              "d"
+            ]
+          },
+          {
+            "name": "Heavy_Machine_Gun",
+            "image_path": "../../media/stratagems/patriotic_administration_center/Heavy_Machine_Gun.svg",
+            "keys": [
+              "s",
+              "a",
+              "w",
+              "s",
+              "s"
+            ]
+          },
+          {
+            "name": "Airburst_Rocket_Launcher",
+            "image_path": "../../media/stratagems/patriotic_administration_center/Airburst_Rocket_Launcher.svg",
+            "keys": [
+              "s",
+              "w",
+              "w",
+              "a",
+              "d"
+            ]
+          },
+          {
+            "name": "Railgun",
+            "image_path": "../../media/stratagems/patriotic_administration_center/Railgun.svg",
+            "keys": [
+              "s",
+              "d",
+              "s",
+              "w",
+              "a",
+              "d"
+            ]
+          },
+          {
+            "name": "Spear",
+            "image_path": "../../media/stratagems/patriotic_administration_center/Spear.svg",
+            "keys": [
+              "s",
+              "s",
+              "w",
+              "s",
+              "s"
+            ]
+          }
         ]
       },
       {
-        "name": "Orbital_Illumination_Flare",
-        "image_path": "../../media/stratagems/general/Orbital_Illumination_Flare.svg",
-        "keys": [
-          "d",
-          "d",
-          "a",
-          "a"
+        "ship_compartment": "Orbital_Cannons",
+        "stratagems": [
+          {
+            "name": "Orbital_Gatling_Barrage",
+            "image_path": "../../media/stratagems/orbital_cannons/Orbital_Gatling_Barrage.svg",
+            "keys": [
+              "d",
+              "s",
+              "a",
+              "w",
+              "w"
+            ]
+          },
+          {
+            "name": "Orbital_Airburst_Strike",
+            "image_path": "../../media/stratagems/orbital_cannons/Orbital_Airburst_Strike.svg",
+            "keys": [
+              "d",
+              "d",
+              "d"
+            ]
+          },
+          {
+            "name": "Orbital_120MM_HE_Barrage",
+            "image_path": "../../media/stratagems/orbital_cannons/Orbital_120MM_HE_Barrage.svg",
+            "keys": [
+              "d",
+              "d",
+              "s",
+              "a",
+              "d",
+              "s"
+            ]
+          },
+          {
+            "name": "Orbital_380MM_HE_Barrage",
+            "image_path": "../../media/stratagems/orbital_cannons/Orbital_380MM_HE_Barrage.svg",
+            "keys": [
+              "d",
+              "s",
+              "w",
+              "w",
+              "a",
+              "s",
+              "s"
+            ]
+          },
+          {
+            "name": "Orbital_Walking_Barrage",
+            "image_path": "../../media/stratagems/orbital_cannons/Orbital_Walking_Barrage.svg",
+            "keys": [
+              "d",
+              "s",
+              "d",
+              "s",
+              "d",
+              "s"
+            ]
+          },
+          {
+            "name": "Orbital_Laser",
+            "image_path": "../../media/stratagems/orbital_cannons/Orbital_Laser.svg",
+            "keys": [
+              "d",
+              "s",
+              "w",
+              "d",
+              "s"
+            ]
+          },
+          {
+            "name": "Orbital_Railcannon_Strike",
+            "image_path": "../../media/stratagems/orbital_cannons/Orbital_Railcannon_Strike.svg",
+            "keys": [
+              "d",
+              "w",
+              "s",
+              "s",
+              "d"
+            ]
+          }
         ]
       },
       {
-        "name": "Prospecting_Drill",
-        "image_path": "../../media/stratagems/general/Prospecting_Drill.svg",
-        "keys": [
-          "s",
-          "s",
-          "a",
-          "d",
-          "s",
-          "s"
+        "ship_compartment": "Hangar",
+        "stratagems": [
+          {
+            "name": "Eagle_Rearm",
+            "image_path": "../../media/stratagems/hangar/Eagle_Rearm.svg",
+            "keys": [
+              "w",
+              "w",
+              "a",
+              "w",
+              "d"
+            ]
+          },
+          {
+            "name": "Eagle_Strafing_Run",
+            "image_path": "../../media/stratagems/hangar/Eagle_Strafing_Run.svg",
+            "keys": [
+              "w",
+              "d",
+              "d"
+            ]
+          },
+          {
+            "name": "Eagle_Airstrike",
+            "image_path": "../../media/stratagems/hangar/Eagle_Airstrike.svg",
+            "keys": [
+              "w",
+              "d",
+              "s",
+              "d"
+            ]
+          },
+          {
+            "name": "Eagle_Cluster_Bomb",
+            "image_path": "../../media/stratagems/hangar/Eagle_Cluster_Bomb.svg",
+            "keys": [
+              "w",
+              "d",
+              "s",
+              "s",
+              "d"
+            ]
+          },
+          {
+            "name": "Eagle_Napalm_Strike",
+            "image_path": "../../media/stratagems/hangar/Eagle_Napalm_Airstrike.svg",
+            "keys": [
+              "w",
+              "d",
+              "s",
+              "w"
+            ]
+          },
+          {
+            "name": "Jump_Pack",
+            "image_path": "../../media/stratagems/hangar/Jump_Pack.svg",
+            "keys": [
+              "s",
+              "w",
+              "w",
+              "s",
+              "w"
+            ]
+          },
+          {
+            "name": "Eagle_Smoke_Strike",
+            "image_path": "../../media/stratagems/hangar/Eagle_Smoke_Strike.svg",
+            "keys": [
+              "w",
+              "d",
+              "w",
+              "s"
+            ]
+          },
+          {
+            "name": "Eagle_110MM_Rocket_Pods",
+            "image_path": "../../media/stratagems/hangar/Eagle_110MM_Rocket Pods.svg",
+            "keys": [
+              "w",
+              "d",
+              "w",
+              "a"
+            ]
+          },
+          {
+            "name": "Eagle_500KG_Bomb",
+            "image_path": "../../media/stratagems/hangar/Eagle_500KG_Bomb.svg",
+            "keys": [
+              "w",
+              "d",
+              "s",
+              "s",
+              "s"
+            ]
+          }
         ]
       },
       {
-        "name": "Reinforce",
-        "image_path": "../../media/stratagems/general/Reinforce.svg",
-        "keys": [
-          "w",
-          "s",
-          "d",
-          "a",
-          "w"
+        "ship_compartment": "Bridge",
+        "stratagems": [
+          {
+            "name": "Orbital_Precision_Strike",
+            "image_path": "../../media/stratagems/bridge/Orbital_Precision_Strike.svg",
+            "keys": [
+              "d",
+              "d",
+              "w"
+            ]
+          },
+          {
+            "name": "Orbital_Gas_Strike",
+            "image_path": "../../media/stratagems/bridge/Orbital_Gas_Strike.svg",
+            "keys": [
+              "d",
+              "d",
+              "s",
+              "d"
+            ]
+          },
+          {
+            "name": "Orbital_EMS_Strike",
+            "image_path": "../../media/stratagems/bridge/Orbital_EMS_Strike.svg",
+            "keys": [
+              "d",
+              "d",
+              "a",
+              "s"
+            ]
+          },
+          {
+            "name": "Orbital_Smoke_Strike",
+            "image_path": "../../media/stratagems/bridge/Orbital_Smoke_Strike.svg",
+            "keys": [
+              "d",
+              "d",
+              "s",
+              "w"
+            ]
+          },
+          {
+            "name": "HMG_Emplacement",
+            "image_path": "../../media/stratagems/bridge/HMG_Emplacement.svg",
+            "keys": [
+              "s",
+              "w",
+              "a",
+              "d",
+              "d",
+              "a"
+            ]
+          },
+          {
+            "name": "Shield_Generator_Relay",
+            "image_path": "../../media/stratagems/bridge/Shield_Generator_Relay.svg",
+            "keys": [
+              "s",
+              "s",
+              "a",
+              "d",
+              "a",
+              "d"
+            ]
+          },
+          {
+            "name": "Tesla_Tower",
+            "image_path": "../../media/stratagems/bridge/Tesla_Tower.svg",
+            "keys": [
+              "s",
+              "w",
+              "d",
+              "w",
+              "a",
+              "d"
+            ]
+          }
         ]
       },
       {
-        "name": "Resupply",
-        "image_path": "../../media/stratagems/general/Resupply.svg",
-        "keys": [
-          "s",
-          "s",
-          "w",
-          "d"
+        "ship_compartment": "Engineering_Bay",
+        "stratagems": [
+          {
+            "name": "Anti-Personnel_Minefield",
+            "image_path": "../../media/stratagems/engineering_bay/Anti-Personnel_Minefield.svg",
+            "keys": [
+              "s",
+              "a",
+              "w",
+              "d"
+            ]
+          },
+          {
+            "name": "Supply_Pack",
+            "image_path": "../../media/stratagems/engineering_bay/Supply_Pack.svg",
+            "keys": [
+              "s",
+              "a",
+              "s",
+              "w",
+              "w",
+              "d"
+            ]
+          },
+          {
+            "name": "Grenade_Launcher",
+            "image_path": "../../media/stratagems/engineering_bay/Grenade_Launcher.svg",
+            "keys": [
+              "s",
+              "a",
+              "w",
+              "a",
+              "s"
+            ]
+          },
+          {
+            "name": "Laser_Cannon",
+            "image_path": "../../media/stratagems/engineering_bay/Laser_Cannon.svg",
+            "keys": [
+              "s",
+              "a",
+              "s",
+              "w",
+              "a"
+            ]
+          },
+          {
+            "name": "Incendiary_Mines",
+            "image_path": "../../media/stratagems/engineering_bay/Incendiary_Mines.svg",
+            "keys": [
+              "s",
+              "a",
+              "a",
+              "s"
+            ]
+          },
+          {
+            "name": "Guard_Dog_Rover",
+            "image_path": "../../media/stratagems/engineering_bay/Guard_Dog_Rover.svg",
+            "keys": [
+              "s",
+              "w",
+              "a",
+              "w",
+              "d",
+              "d"
+            ]
+          },
+          {
+            "name": "Ballistic_Shield_Backpack",
+            "image_path": "../../media/stratagems/engineering_bay/Ballistic_Shield_Backpack.svg",
+            "keys": [
+              "s",
+              "a",
+              "s",
+              "s",
+              "w",
+              "a"
+            ]
+          },
+          {
+            "name": "Arc_Thrower",
+            "image_path": "../../media/stratagems/engineering_bay/Arc_Thrower.svg",
+            "keys": [
+              "s",
+              "d",
+              "s",
+              "w",
+              "a",
+              "a"
+            ]
+          },
+          {
+            "name": "Quasar_Cannon",
+            "image_path": "../../media/stratagems/engineering_bay/Quasar_Cannon.svg",
+            "keys": [
+              "s",
+              "s",
+              "w",
+              "a",
+              "d"
+            ]
+          },
+          {
+            "name": "Shield_Generator_Pack",
+            "image_path": "../../media/stratagems/engineering_bay/Shield_Generator_Pack.svg",
+            "keys": [
+              "s",
+              "w",
+              "a",
+              "d",
+              "a",
+              "d"
+            ]
+          }
         ]
       },
       {
-        "name": "SEAF_Artillery",
-        "image_path": "../../media/stratagems/general/SEAF_Artillery.svg",
-        "keys": [
-          "d",
-          "w",
-          "w",
-          "s"
-        ]
-      },
-      {
-        "name": "Seismic_Probe",
-        "image_path": "../../media/stratagems/general/Seismic_Probe.svg",
-        "keys": [
-          "w",
-          "w",
-          "a",
-          "d",
-          "s",
-          "s"
-        ]
-      },
-      {
-        "name": "SOS_Beacon",
-        "image_path": "../../media/stratagems/general/SOS_Beacon.svg",
-        "keys": [
-          "w",
-          "s",
-          "d",
-          "w"
-        ]
-      },
-      {
-        "name": "Super_Earth_Flag",
-        "image_path": "../../media/stratagems/general/Super_Earth_Flag.svg",
-        "keys": [
-          "s",
-          "w",
-          "s",
-          "w"
-        ]
-      },
-      {
-        "name": "Tectonic_Drill",
-        "image_path": "../../media/stratagems/general/Tectonic_Drill.svg",
-        "keys": [
-          "w",
-          "s",
-          "w",
-          "s",
-          "w",
-          "s"
-        ]
-      },
-      {
-        "name": "Upload_Data",
-        "image_path": "../../media/stratagems/general/Upload_Data.svg",
-        "keys": [
-          "a",
-          "d",
-          "w",
-          "w",
-          "w"
-        ]
-      },
-      {
-        "name": "Hive_Breaker_Drill",
-        "image_path": "",
-        "keys": [
-          "a",
-          "w",
-          "s",
-          "d",
-          "s",
-          "s"
+        "ship_compartment": "Robotics_Workshop",
+        "stratagems": [
+          {
+            "name": "Machine_Gun_Sentry",
+            "image_path": "../../media/stratagems/robotics_workshop/Machine_Gun_Sentry.svg",
+            "keys": [
+              "s",
+              "w",
+              "d",
+              "d",
+              "w"
+            ]
+          },
+          {
+            "name": "Gatling_Sentry",
+            "image_path": "../../media/stratagems/robotics_workshop/Gatling_Sentry.svg",
+            "keys": [
+              "s",
+              "w",
+              "d",
+              "a"
+            ]
+          },
+          {
+            "name": "Mortar_Sentry",
+            "image_path": "../../media/stratagems/robotics_workshop/Mortar_Sentry.svg",
+            "keys": [
+              "s",
+              "w",
+              "d",
+              "d",
+              "s"
+            ]
+          },
+          {
+            "name": "Guard_Dog",
+            "image_path": "../../media/stratagems/robotics_workshop/Guard_Dog.svg",
+            "keys": [
+              "s",
+              "w",
+              "a",
+              "w",
+              "d",
+              "s"
+            ]
+          },
+          {
+            "name": "Autocannon_Sentry",
+            "image_path": "../../media/stratagems/robotics_workshop/Autocannon_Sentry.svg",
+            "keys": [
+              "s",
+              "w",
+              "d",
+              "w",
+              "a",
+              "w"
+            ]
+          },
+          {
+            "name": "Rocket_Sentry",
+            "image_path": "../../media/stratagems/robotics_workshop/Rocket_Sentry.svg",
+            "keys": [
+              "s",
+              "w",
+              "d",
+              "d",
+              "a"
+            ]
+          },
+          {
+            "name": "EMS_Mortar_Sentry",
+            "image_path": "../../media/stratagems/robotics_workshop/EMS_Mortar_Sentry.svg",
+            "keys": [
+              "s",
+              "w",
+              "d",
+              "s",
+              "d"
+            ]
+          },
+          {
+            "name": "Patriot_Exosuit",
+            "image_path": "../../media/stratagems/robotics_workshop/Patriot_Exosuit.svg",
+            "keys": [
+              "a",
+              "s",
+              "d",
+              "w",
+              "a",
+              "s",
+              "s"
+            ]
+          },
+          {
+            "name": "Emancipator_Exosuit",
+            "image_path": "../../media/stratagems/robotics_workshop/Emancipator_Exosuit.svg",
+            "keys": [
+              "a",
+              "s",
+              "d",
+              "w",
+              "a",
+              "s",
+              "w"
+            ]
+          }
         ]
       }
     ]
-  },
-  {
-    "ship_compartment": "Patriotic_Administration_Center",
-    "stratagems": [
-      {
-        "name": "Machine_Gun",
-        "image_path": "../../media/stratagems/patriotic_administration_center/Machine_Gun.svg",
-        "keys": [
-          "s",
-          "a",
-          "s",
-          "w",
-          "d"
-        ]
-      },
-      {
-        "name": "Anti-Materiel_Rifle",
-        "image_path": "../../media/stratagems/patriotic_administration_center/Anti-Materiel_Rifle.svg",
-        "keys": [
-          "s",
-          "a",
-          "d",
-          "w",
-          "s"
-        ]
-      },
-      {
-        "name": "Stalwart",
-        "image_path": "../../media/stratagems/patriotic_administration_center/Stalwart.svg",
-        "keys": [
-          "s",
-          "a",
-          "s",
-          "w",
-          "w",
-          "a"
-        ]
-      },
-      {
-        "name": "Expendable_Anti-Tank",
-        "image_path": "../../media/stratagems/patriotic_administration_center/Expendable_Anti-Tank.svg",
-        "keys": [
-          "s",
-          "s",
-          "a",
-          "w",
-          "d"
-        ]
-      },
-      {
-        "name": "Recoilless_Rifle",
-        "image_path": "../../media/stratagems/patriotic_administration_center/Recoilless_Rifle.svg",
-        "keys": [
-          "s",
-          "a",
-          "d",
-          "d",
-          "a"
-        ]
-      },
-      {
-        "name": "Flamethrower",
-        "image_path": "../../media/stratagems/patriotic_administration_center/Flamethrower.svg",
-        "keys": [
-          "s",
-          "a",
-          "w",
-          "s",
-          "w"
-        ]
-      },
-      {
-        "name": "Autocannon",
-        "image_path": "../../media/stratagems/patriotic_administration_center/Autocannon.svg",
-        "keys": [
-          "s",
-          "a",
-          "s",
-          "w",
-          "w",
-          "d"
-        ]
-      },
-      {
-        "name": "Heavy_Machine_Gun",
-        "image_path": "../../media/stratagems/patriotic_administration_center/Heavy_Machine_Gun.svg",
-        "keys": [
-          "s",
-          "a",
-          "w",
-          "s",
-          "s"
-        ]
-      },
-      {
-        "name": "Airburst_Rocket_Launcher",
-        "image_path": "../../media/stratagems/patriotic_administration_center/Airburst_Rocket_Launcher.svg",
-        "keys": [
-          "s",
-          "w",
-          "w",
-          "a",
-          "d"
-        ]
-      },
-      {
-        "name": "Railgun",
-        "image_path": "../../media/stratagems/patriotic_administration_center/Railgun.svg",
-        "keys": [
-          "s",
-          "d",
-          "s",
-          "w",
-          "a",
-          "d"
-        ]
-      },
-      {
-        "name": "Spear",
-        "image_path": "../../media/stratagems/patriotic_administration_center/Spear.svg",
-        "keys": [
-          "s",
-          "s",
-          "w",
-          "s",
-          "s"
-        ]
-      }
-    ]
-  },
-  {
-    "ship_compartment": "Orbital_Cannons",
-    "stratagems": [
-      {
-        "name": "Orbital_Gatling_Barrage",
-        "image_path": "../../media/stratagems/orbital_cannons/Orbital_Gatling_Barrage.svg",
-        "keys": [
-          "d",
-          "s",
-          "a",
-          "w",
-          "w"
-        ]
-      },
-      {
-        "name": "Orbital_Airburst_Strike",
-        "image_path": "../../media/stratagems/orbital_cannons/Orbital_Airburst_Strike.svg",
-        "keys": [
-          "d",
-          "d",
-          "d"
-        ]
-      },
-      {
-        "name": "Orbital_120MM_HE_Barrage",
-        "image_path": "../../media/stratagems/orbital_cannons/Orbital_120MM_HE_Barrage.svg",
-        "keys": [
-          "d",
-          "d",
-          "s",
-          "a",
-          "d",
-          "s"
-        ]
-      },
-      {
-        "name": "Orbital_380MM_HE_Barrage",
-        "image_path": "../../media/stratagems/orbital_cannons/Orbital_380MM_HE_Barrage.svg",
-        "keys": [
-          "d",
-          "s",
-          "w",
-          "w",
-          "a",
-          "s",
-          "s"
-        ]
-      },
-      {
-        "name": "Orbital_Walking_Barrage",
-        "image_path": "../../media/stratagems/orbital_cannons/Orbital_Walking_Barrage.svg",
-        "keys": [
-          "d",
-          "s",
-          "d",
-          "s",
-          "d",
-          "s"
-        ]
-      },
-      {
-        "name": "Orbital_Laser",
-        "image_path": "../../media/stratagems/orbital_cannons/Orbital_Laser.svg",
-        "keys": [
-          "d",
-          "s",
-          "w",
-          "d",
-          "s"
-        ]
-      },
-      {
-        "name": "Orbital_Railcannon_Strike",
-        "image_path": "../../media/stratagems/orbital_cannons/Orbital_Railcannon_Strike.svg",
-        "keys": [
-          "d",
-          "w",
-          "s",
-          "s",
-          "d"
-        ]
-      }
-    ]
-  },
-  {
-    "ship_compartment": "Hangar",
-    "stratagems": [
-      {
-        "name": "Eagle_Rearm",
-        "image_path": "../../media/stratagems/hangar/Eagle_Rearm.svg",
-        "keys": [
-          "w",
-          "w",
-          "a",
-          "w",
-          "d"
-        ]
-      },
-      {
-        "name": "Eagle_Strafing_Run",
-        "image_path": "../../media/stratagems/hangar/Eagle_Strafing_Run.svg",
-        "keys": [
-          "w",
-          "d",
-          "d"
-        ]
-      },
-      {
-        "name": "Eagle_Airstrike",
-        "image_path": "../../media/stratagems/hangar/Eagle_Airstrike.svg",
-        "keys": [
-          "w",
-          "d",
-          "s",
-          "d"
-        ]
-      },
-      {
-        "name": "Eagle_Cluster_Bomb",
-        "image_path": "../../media/stratagems/hangar/Eagle_Cluster_Bomb.svg",
-        "keys": [
-          "w",
-          "d",
-          "s",
-          "s",
-          "d"
-        ]
-      },
-      {
-        "name": "Eagle_Napalm_Strike",
-        "image_path": "../../media/stratagems/hangar/Eagle_Napalm_Airstrike.svg",
-        "keys": [
-          "w",
-          "d",
-          "s",
-          "w"
-        ]
-      },
-      {
-        "name": "Jump_Pack",
-        "image_path": "../../media/stratagems/hangar/Jump_Pack.svg",
-        "keys": [
-          "s",
-          "w",
-          "w",
-          "s",
-          "w"
-        ]
-      },
-      {
-        "name": "Eagle_Smoke_Strike",
-        "image_path": "../../media/stratagems/hangar/Eagle_Smoke_Strike.svg",
-        "keys": [
-          "w",
-          "d",
-          "w",
-          "s"
-        ]
-      },
-      {
-        "name": "Eagle_110MM_Rocket_Pods",
-        "image_path": "../../media/stratagems/hangar/Eagle_110MM_Rocket Pods.svg",
-        "keys": [
-          "w",
-          "d",
-          "w",
-          "a"
-        ]
-      },
-      {
-        "name": "Eagle_500KG_Bomb",
-        "image_path": "../../media/stratagems/hangar/Eagle_500KG_Bomb.svg",
-        "keys": [
-          "w",
-          "d",
-          "s",
-          "s",
-          "s"
-        ]
-      }
-    ]
-  },
-  {
-    "ship_compartment": "Bridge",
-    "stratagems": [
-      {
-        "name": "Orbital_Precision_Strike",
-        "image_path": "../../media/stratagems/bridge/Orbital_Precision_Strike.svg",
-        "keys": [
-          "d",
-          "d",
-          "w"
-        ]
-      },
-      {
-        "name": "Orbital_Gas_Strike",
-        "image_path": "../../media/stratagems/bridge/Orbital_Gas_Strike.svg",
-        "keys": [
-          "d",
-          "d",
-          "s",
-          "d"
-        ]
-      },
-      {
-        "name": "Orbital_EMS_Strike",
-        "image_path": "../../media/stratagems/bridge/Orbital_EMS_Strike.svg",
-        "keys": [
-          "d",
-          "d",
-          "a",
-          "s"
-        ]
-      },
-      {
-        "name": "Orbital_Smoke_Strike",
-        "image_path": "../../media/stratagems/bridge/Orbital_Smoke_Strike.svg",
-        "keys": [
-          "d",
-          "d",
-          "s",
-          "w"
-        ]
-      },
-      {
-        "name": "HMG_Emplacement",
-        "image_path": "../../media/stratagems/bridge/HMG_Emplacement.svg",
-        "keys": [
-          "s",
-          "w",
-          "a",
-          "d",
-          "d",
-          "a"
-        ]
-      },
-      {
-        "name": "Shield_Generator_Relay",
-        "image_path": "../../media/stratagems/bridge/Shield_Generator_Relay.svg",
-        "keys": [
-          "s",
-          "s",
-          "a",
-          "d",
-          "a",
-          "d"
-        ]
-      },
-      {
-        "name": "Tesla_Tower",
-        "image_path": "../../media/stratagems/bridge/Tesla_Tower.svg",
-        "keys": [
-          "s",
-          "w",
-          "d",
-          "w",
-          "a",
-          "d"
-        ]
-      }
-    ]
-  },
-  {
-    "ship_compartment": "Engineering_Bay",
-    "stratagems": [
-      {
-        "name": "Anti-Personnel_Minefield",
-        "image_path": "../../media/stratagems/engineering_bay/Anti-Personnel_Minefield.svg",
-        "keys": [
-          "s",
-          "a",
-          "w",
-          "d"
-        ]
-      },
-      {
-        "name": "Supply_Pack",
-        "image_path": "../../media/stratagems/engineering_bay/Supply_Pack.svg",
-        "keys": [
-          "s",
-          "a",
-          "s",
-          "w",
-          "w",
-          "d"
-        ]
-      },
-      {
-        "name": "Grenade_Launcher",
-        "image_path": "../../media/stratagems/engineering_bay/Grenade_Launcher.svg",
-        "keys": [
-          "s",
-          "a",
-          "w",
-          "a",
-          "s"
-        ]
-      },
-      {
-        "name": "Laser_Cannon",
-        "image_path": "../../media/stratagems/engineering_bay/Laser_Cannon.svg",
-        "keys": [
-          "s",
-          "a",
-          "s",
-          "w",
-          "a"
-        ]
-      },
-      {
-        "name": "Incendiary_Mines",
-        "image_path": "../../media/stratagems/engineering_bay/Incendiary_Mines.svg",
-        "keys": [
-          "s",
-          "a",
-          "a",
-          "s"
-        ]
-      },
-      {
-        "name": "Guard_Dog_Rover",
-        "image_path": "../../media/stratagems/engineering_bay/Guard_Dog_Rover.svg",
-        "keys": [
-          "s",
-          "w",
-          "a",
-          "w",
-          "d",
-          "d"
-        ]
-      },
-      {
-        "name": "Ballistic_Shield_Backpack",
-        "image_path": "../../media/stratagems/engineering_bay/Ballistic_Shield_Backpack.svg",
-        "keys": [
-          "s",
-          "a",
-          "s",
-          "s",
-          "w",
-          "a"
-        ]
-      },
-      {
-        "name": "Arc_Thrower",
-        "image_path": "../../media/stratagems/engineering_bay/Arc_Thrower.svg",
-        "keys": [
-          "s",
-          "d",
-          "s",
-          "w",
-          "a",
-          "a"
-        ]
-      },
-      {
-        "name": "Quasar_Cannon",
-        "image_path": "../../media/stratagems/engineering_bay/Quasar_Cannon.svg",
-        "keys": [
-          "s",
-          "s",
-          "w",
-          "a",
-          "d"
-        ]
-      },
-      {
-        "name": "Shield_Generator_Pack",
-        "image_path": "../../media/stratagems/engineering_bay/Shield_Generator_Pack.svg",
-        "keys": [
-          "s",
-          "w",
-          "a",
-          "d",
-          "a",
-          "d"
-        ]
-      }
-    ]
-  },
-  {
-    "ship_compartment": "Robotics_Workshop",
-    "stratagems": [
-      {
-        "name": "Machine_Gun_Sentry",
-        "image_path": "../../media/stratagems/robotics_workshop/Machine_Gun_Sentry.svg",
-        "keys": [
-          "s",
-          "w",
-          "d",
-          "d",
-          "w"
-        ]
-      },
-      {
-        "name": "Gatling_Sentry",
-        "image_path": "../../media/stratagems/robotics_workshop/Gatling_Sentry.svg",
-        "keys": [
-          "s",
-          "w",
-          "d",
-          "a"
-        ]
-      },
-      {
-        "name": "Mortar_Sentry",
-        "image_path": "../../media/stratagems/robotics_workshop/Mortar_Sentry.svg",
-        "keys": [
-          "s",
-          "w",
-          "d",
-          "d",
-          "s"
-        ]
-      },
-      {
-        "name": "Guard_Dog",
-        "image_path": "../../media/stratagems/robotics_workshop/Guard_Dog.svg",
-        "keys": [
-          "s",
-          "w",
-          "a",
-          "w",
-          "d",
-          "s"
-        ]
-      },
-      {
-        "name": "Autocannon_Sentry",
-        "image_path": "../../media/stratagems/robotics_workshop/Autocannon_Sentry.svg",
-        "keys": [
-          "s",
-          "w",
-          "d",
-          "w",
-          "a",
-          "w"
-        ]
-      },
-      {
-        "name": "Rocket_Sentry",
-        "image_path": "../../media/stratagems/robotics_workshop/Rocket_Sentry.svg",
-        "keys": [
-          "s",
-          "w",
-          "d",
-          "d",
-          "a"
-        ]
-      },
-      {
-        "name": "EMS_Mortar_Sentry",
-        "image_path": "../../media/stratagems/robotics_workshop/EMS_Mortar_Sentry.svg",
-        "keys": [
-          "s",
-          "w",
-          "d",
-          "s",
-          "d"
-        ]
-      },
-      {
-        "name": "Patriot_Exosuit",
-        "image_path": "../../media/stratagems/robotics_workshop/Patriot_Exosuit.svg",
-        "keys": [
-          "a",
-          "s",
-          "d",
-          "w",
-          "a",
-          "s",
-          "s"
-        ]
-      },
-      {
-        "name": "Emancipator_Exosuit",
-        "image_path": "../../media/stratagems/robotics_workshop/Emancipator_Exosuit.svg",
-        "keys": [
-          "a",
-          "s",
-          "d",
-          "w",
-          "a",
-          "s",
-          "w"
-        ]
-      }
-    ]
-  }
-]
+}
+
+
+
+
