@@ -6,7 +6,7 @@ interface StratagemPageProps {
     imagePath: string;
 }
 
-const StratagemPage: React.FC<StratagemPageProps> = ({ imagePath }) => {
+const StratagemTrainingPage: React.FC<StratagemPageProps> = ({ imagePath }) => {
     return <div>
         <StratagemImage imagePath={imagePath}/>
         <br/><br/><br/>
@@ -14,4 +14,4 @@ const StratagemPage: React.FC<StratagemPageProps> = ({ imagePath }) => {
     </div>
 }
 
-export default StratagemPage
+export default StratagemTrainingPage
