@@ -4,29 +4,28 @@ import stratagemImage from "./StratagemImage";
 import {Simulate} from "react-dom/test-utils";
 import compositionEnd = Simulate.compositionEnd;
 
-interface StratagemSublistProps{
+interface StratagemSublistProps {
     sectionName: string
+    filePath: string
 }
 
-interface StratagemImage{
-    filePath:string
-}
 
 const Components = {
-    stratagemImage:StratagemImage
+    stratagemImage: StratagemImage
 };
 
 
-const dynamicComponent = (imagePath:string) => {
+const dynamicComponent = (imagePath: string) => {
     return React.createElement(StratagemImage, {imagePath});
 
 };
+
 /*
 {dynamicComponent({filePath:'../../media/stratagems/bridge/HMG_Emplacement.svg'})}
 Components[stratagemImage.filePath], { key: stratagemImage._uid, block: stratagemImage }
  */
 
-function StratagemSublist(stratagemSublistProps:StratagemSublistProps) {
+function StratagemSublist(stratagemSublistProps: StratagemSublistProps) {
     return <div>
         <h2>{stratagemSublistProps.sectionName}</h2>
         <StratagemImage imagePath="../../media/stratagems/bridge/HMG_Emplacement.svg"></StratagemImage>

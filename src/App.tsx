@@ -1,12 +1,10 @@
-import StratagemImage from './components/StratagemImage'
-import StartButton from "./components/StartButton";
-import StratagemList from "./components/StratagemList";
+
+import Test from "./components/Test";
 
 function App() {
-    return <div>
-        <StratagemImage imagePath="../../media/stratagems/hangar/Eagle Airstrike.svg"></StratagemImage>
-        <StratagemList></StratagemList>
-    </div>
+    return (
+        <Test></Test>
+    )
 }
 
 export default App

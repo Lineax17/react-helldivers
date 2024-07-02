@@ -1,5 +1,5 @@
 import React from "react";
-import StratagemPage from "./StratagemPage";
+import StratagemTrainingPage from "./StratagemTrainingPage";
 import StratagemSublist from "./StratagemSublist";
 
 interface StratagemImageProps {
